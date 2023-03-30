@@ -1,0 +1,5 @@
+# MySQL connection string use DNS format, as follows:
+# <user>:<password>@tcp(<root>:<port>)/database
+
+# usage example:
+export MYSQL_URI=root:123456@tcp(localhost:3306)/database
